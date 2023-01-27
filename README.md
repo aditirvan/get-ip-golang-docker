@@ -20,3 +20,10 @@ Open your browser and type the url
 ```bash
 http://localhost
 ```
+Response:
+```
+{
+  "code": 200,
+  "your_ip": "172.17.0.1"
+}
+```
